@@ -1,0 +1,34 @@
+{
+  "name": "cyto-visualizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YinDongFang/cyto-visualizer.git"
+  },
+  "author": "YinDongFang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YinDongFang/cyto-visualizer/issues"
+  },
+  "homepage": "https://github.com/YinDongFang/cyto-visualizer#readme",
+  "dependencies": {
+    "cytoscape": "^3.28.1",
+    "debug": "^4.3.4",
+    "express": "^4.19.2",
+    "is-array": "^1.0.1",
+    "is-null": "^1.0.1",
+    "is-number": "^7.0.0",
+    "jquery": "^3.7.1",
+    "qs": "^6.12.0",
+    "querystring": "^0.2.1",
+    "react": "^18.2.0",
+    "vite": "^5.2.6",
+    "vue": "^3.4.21",
+    "cyto-extensions": "^1.0.0"
+  }
+}
